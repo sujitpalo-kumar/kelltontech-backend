@@ -1,0 +1,29 @@
+{
+  "name": "kelltontech-backend",
+  "version": "1.0.0",
+  "description": "all the API related to Ecommerce website",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sujitpalo-kumar/kelltontech-backend.git"
+  },
+  "keywords": [
+    "sujit"
+  ],
+  "author": "sujit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sujitpalo-kumar/kelltontech-backend/issues"
+  },
+  "homepage": "https://github.com/sujitpalo-kumar/kelltontech-backend#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.1",
+    "mongoose": "^6.3.2",
+    "nodemon": "^2.0.16"
+  }
+}
